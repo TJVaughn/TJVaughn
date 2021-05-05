@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TJVaughn
+- 👀 I’m interested in tinkering with Raspberry Pis, building cool projects and making web applications.
+- 🌱 I’m currently learning Vue.js
+- 💞️ I’m looking to collaborate on a cool web app
+- 📫 How to reach me: hauck.trevor@gmail.com
