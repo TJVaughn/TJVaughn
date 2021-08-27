@@ -1,8 +1,19 @@
 - 👋 Hi, I’m @TJVaughn
 - 👀 I’m interested in building enterprise business logic using Node.js
-- 🌱 I’m currently learning PostgreSQL
-- 💞️ I’m looking to collaborate with a UX/UI designer to make some cool projects together
-- 📫 How to reach me: hauck.trevor@gmail.com
+- 🌱 I’m currently learning MongoDB in greater depth
+- 📫 How to reach me: https://www.linkedin.com/in/trevor-hauck/
+
+## Certifications
+### Amazon Web Services
+#### AWS Certified Developer - [Associate](https://www.credly.com/badges/4b612b35-6f42-4260-ba32-e2dbfcbe14c4/public_url)
+
+August 2021 - August 2024
+
+## Technical Skills
+- Programming: JavaScript, Node.js, Express.js, React.js, MongoDB, Git, Bash, HTML, CSS/SCSS,
+Bootstrap, REST, APIs, JSON
+- Operating Systems: Linux, Windows
+- Web Design: Designed https://nedofficials.com, https://trevorjvaughn.com, https://tjvaughn-zen.herokuapp.com/land
 
 ## Experience
 ### USA Hockey
@@ -41,9 +52,3 @@ kindness
 - Managed high level hockey games using excellent judgement, rule and game knowledge,
 hard work, and great communication
 - Guided and informed players and coaches at lower levels of play
-
-## Technical Skills
-- Programming: JavaScript, Node.js, Express.js, React.js, MongoDB, Git, Bash, HTML, CSS/SCSS,
-Bootstrap, REST, APIs, JSON
-- Operating Systems: Linux, Windows
-- Web Design: Designed https://nedofficials.com, https://trevorjvaughn.com
