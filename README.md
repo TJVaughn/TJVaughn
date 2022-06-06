@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TJVaughn
-- 👀 I’m interested in building enterprise business logic using Node.js
-- 🌱 I’m currently learning MongoDB in greater depth
+- 👀 I like building things. Like making a keyboard from a kit, or making some software that makes my life easier.
+- 🌱 I'm learning Go at the moment and really enjoying it so far!
 - 📫 How to reach me: https://www.linkedin.com/in/trevor-hauck/
 
 ## Certifications
@@ -16,6 +16,12 @@ Bootstrap, REST, APIs, JSON
 - Web Design: Designed https://nedofficials.com, https://trevorjvaughn.com, https://tjvaughn-zen.herokuapp.com/land
 
 ## Experience
+### Perficient
+#### Technical Consultant
+October 2021 - Present
+
+- Details TBD
+
 ### USA Hockey
 #### Full Stack Developer 
 July 2019 - Present
