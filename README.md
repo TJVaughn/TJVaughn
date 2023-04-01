@@ -12,7 +12,7 @@ August 2021 - August 2024
 ## Technical Skills
 - Programming: JavaScript, Node.js, Express.js, React.js, MongoDB, Git, Bash, HTML, CSS/SCSS,
 Bootstrap, REST, APIs, JSON
-- Operating Systems: Linux, Windows
+- Operating Systems: Linux, Windows, Mac
 - Web Design: Designed https://nedofficials.com, https://trevorjvaughn.com, https://tjvaughn-zen.herokuapp.com/land
 
 ## Experience
@@ -24,7 +24,7 @@ October 2021 - Present
 
 ### USA Hockey
 #### Full Stack Developer 
-July 2019 - Present
+July 2019 - December 2022
 
 - Overhauled NEDOfficials.com website from unworkable to brand new site quickly and
 effectively
