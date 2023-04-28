@@ -3,45 +3,36 @@
 - 🌱 Building a cool web app with the SPAR stack (Solid.js, PostgreSQL, Actix.rs, Rust)
 - 📫 How to reach me: https://www.linkedin.com/in/trevor-hauck/
 
-## Certifications
-### Amazon Web Services
-#### AWS Certified Developer - [Associate](https://www.credly.com/badges/4b612b35-6f42-4260-ba32-e2dbfcbe14c4/public_url)
+# Recent Projects
 
-August 2021 - August 2024
+## Chaos Manager (Solid, PostgreSQL, Actix, Rust)
 
-## Technical Skills
-- Programming: JavaScript, Node.js, Express.js, React.js, MongoDB, Git, Bash, HTML, CSS/SCSS,
-Bootstrap, REST, APIs, JSON
-- Operating Systems: Linux, Windows, Mac
-- Web Design: Designed https://nedofficials.com, https://trevorjvaughn.com, https://tjvaughn-zen.herokuapp.com/land
+Chaos manager is not your typical todo list style app. It allows you to prioritize tasks and times of day to accomplish those todos. 
 
-## Experience
-### Perficient
-#### Technical Consultant
-October 2021 - Present
+Chaos manager is written in TypeScript and Rust.
 
-- Details TBD
+This project enabled me to learn:
+- Solid
+  - Front end library
+  - Written in TypeScript
+- Actix
+  - Rust web service library
+  - Create endpoints to support CRUD operations on tasks, categories and time blocks
+- Rust
+  - Write SQL queries against local database
+  - Receiving and sending data to and from the client
+- PostgreSQL 
 
-### USA Hockey
-#### Full Stack Developer 
-July 2019 - December 2022
+## CopyCat (Rust)
 
-- Overhauled NEDOfficials.com website from unworkable to brand new site quickly and
-effectively
-- Designed and developed front end of NEDOfficials.com from scratch with React.js
-- Programmed server side business logic of NEDOfficials.com from the ground up with
-Node.js, Express.js and MongoDB
-- Maintained NEDOfficials.com from initial iteration to present day. Managed
-dependencies, third party integrations and analytics
-- Engineered new features for NEDOfficials.com across the entire technology stack
-- Delivered effective user-friendly features based on client requests
+CopyCat is a basic clipboard manager that stores recently clipped items, and also allows storage of custom clips.
 
-### Freelance
-#### Full Stack Developer
-March 2018 - Present
+CopyCat is written entirely in rust and utilized the egui library. 
 
-- Customized designs of websites on top of WordPress
-- Integrated Shopify, Stripe and other third party plug-ins
-- Collaborated with clients to organize and execute on deliverables
-- Revitalized websites with upgraded designs and functionality
-- Oversaw SEO and Web Mastering for client sites
+This project taught me how to use rust to:
+- read and write files to drive
+- create threads
+- listen for clipboard events without blocking the UI
+- utilize Egui library to create a simple UI to interact with
+- set clipboard values
+
