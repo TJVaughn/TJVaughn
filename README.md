@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TJVaughn
-- 👀 I like building things. Like making a keyboard from a kit, or making some software that makes my life easier.
-- 🌱 Building a cool web app with the SPAR stack (Solid.js, PostgreSQL, Actix.rs, Rust)
+- 🌱 Check out my recent projects below
 - 📫 How to reach me: https://www.linkedin.com/in/trevor-hauck/
 
 # Recent Projects
