@@ -16,7 +16,7 @@ This project enabled me to learn:
   - Written in TypeScript
 - Actix
   - Rust web service library
-  - Create endpoints to support CRUD operations on tasks, categories and time blocks
+  - Writing a REST API in rust
 - Rust
   - Write SQL queries against local database
   - Receiving and sending data to and from the client
